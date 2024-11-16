@@ -1,5 +1,15 @@
+theme: jekyll-theme-minimal # Replace with your theme
 title: Abhigna Reddy Musku
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+description: Welcome to my portfolio!
+
+nav:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about/
+  - title: Work Experience
+    url: /experience/
+  - title: Projects
+    url: /projects/
+  - title: Fun
+    url: /fun/
